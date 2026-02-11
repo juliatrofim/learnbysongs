@@ -86,16 +86,35 @@ ${sample}
   return name
 }
 
-const EXAMPLE_LYRICS = `Yesterday, all my troubles seemed so far away
-Now it looks as though they're here to stay
-Oh, I believe in yesterday
+const EXAMPLE_LYRICS = `Ik ga slapen, ik ben moe,
+'k sluit mijn beide oogjes toe,
+Heere houdt ook deze nacht,
+over mij getrouw de wacht.
 
-Suddenly, I'm not half the man I used to be
-There's a shadow hanging over me
-Oh, yesterday came suddenly
+'t Boze dat ik heb gedaan,
+zie het Heere toch niet aan.
+Schoon mijn zonden vele zijn,
+maak om Jezus wil mij rein.
 
-Why she had to go I don't know, she wouldn't say
-I said something wrong, now I long for yesterday`
+Zorg voor arme kind'ren Heer',
+en herstel de zieken weer.
+Ja, voor alle mensen saâm,
+bid ik U in Jezus naam.
+
+Sta mijn ouders trouw ter zij,
+wees mijn vrienden ook nabij.
+Geef ons allen nieuwe kracht,
+door de rust van deze nacht.
+
+Doe mij dankbaar en gezond,
+opstaan in de morgenstond.
+Als 'k mijn oogjes open doe,
+lacht Uw zon mij vriend'lijk toe.
+
+Wilt u luisteren wat ik vraag,
+een nieuw hartje wil ik graag.
+Dat eerbiedig luisteren wil,
+en gehoorzaam volgen wil.`
 
 /** Export learning items as tab-separated file for Quizlet import (term \t translation only). */
 function exportForQuizlet(items: LearningItem[]): void {
